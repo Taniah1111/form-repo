@@ -1,3 +1,3 @@
 # demo
 
-small descroption
+small description
